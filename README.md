@@ -1,4 +1,5 @@
-# 1st-project-repo
+# My Practice repo
 THIS IS MY FIRST REPOSITORY ON GITHUB 
 <br>
 AUTHOR - SALAHUDDIN CHISTI
+
